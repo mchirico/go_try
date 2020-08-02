@@ -1,4 +1,4 @@
-module github.com/microsoft/vscode-remote-try-go
+module github.com/mchirico/go-try
 
 go 1.14
 
