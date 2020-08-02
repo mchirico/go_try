@@ -125,3 +125,6 @@ Licensed under the MIT License. See LICENSE in the project root for license info
 
 ## Update
 
+If you install k8s
+
+- k8s `http://localhost:80` 
