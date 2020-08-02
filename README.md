@@ -15,6 +15,8 @@ sudo make go
 
 go get github.com/go-delve/delve/cmd/dlv
 
+# You'll need to restart vscode
+
 ```
 
 Below is a summary...
