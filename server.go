@@ -10,7 +10,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/microsoft/vscode-remote-try-go/hello"
+	"github.com/mchirico/go-try/hello"
 )
 
 func handle(w http.ResponseWriter, r *http.Request) {
